@@ -1,3 +1,9 @@
+/*
+CREATED BY: Kev O
+CREATED ON: May 14, 2026
+DESCRIPTION: Analysis of NYC MTA data. Created tables, imported and cleaned the data. Used aggregate functions, subqueries, and CASE statements to analzye data.  
+*/
+
 /*creates table*/
 CREATE TABLE nyc_subway (
 station TEXT,
@@ -37,7 +43,7 @@ FROM
 SELECT 
 			station,
 			borough,
-			 rank_2023 AS '2023_rank',
+			rank_2023 AS '2023_rank',
 			year2023 AS '2023_weekly_riders',
 			year2018 AS '2018_weekly_riders',
 			year2023 - year2018 AS 'ridership_change'	   
