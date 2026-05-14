@@ -14,7 +14,7 @@ Analyzing the NYC MTA weekday data from 2018 - 2023 to enhance the knowledge and
 - Remote work trends likely contributed to reduced commuter traffic.
 - Even though there was growth in 2023, it slowed down compared to 2022.
 
-##Additional SQL queries were experimented to explore for future visualizations:
+## Additional SQL queries were experimented to explore for future visualizations:
 
 - station traffic tier classification
 - borough-level ridership comparisons
