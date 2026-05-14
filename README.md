@@ -8,6 +8,9 @@ Analyzing the NYC MTA weekday data from 2018 - 2023 to enhance the knowledge and
 - GitHub
 
 - <img width="450" height="350" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/bcab2939-7bda-4268-ae5c-d34d08b078f6" />
+## Background
+This dashboard illustrates the citywide average, borough average, and the changes from year to year. Each bar in both city and borough averages represents the average amount of riders in one weekday. The line graph tracks the changes that is happening in the bar graphs. For example, during 2020 there was a steep drop in riders, and the line graph illustrates roughly how many riders were lost as it accurately mirrors each graph. 
+
 ## Key Takeaways
 - Manhattan stations drive the highest ridership levels.
 - Ridership in 2023 remained below pre-pandemic levels.
