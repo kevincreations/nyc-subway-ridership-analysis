@@ -16,17 +16,18 @@ This dashboard illustrates citywide averages, borough averages, and year-to-year
 ## Key Takeaways
 - Manhattan stations drive the highest ridership levels.
 - Ridership in 2023 remained below pre-pandemic levels.
+- Although growth continued in 2023, it was significantly weaker than the surge seen in 2022.
 - Remote work trends likely contributed to reduced commuter traffic.
-- Even though there was growth in 2023, it slowed down compared to 2022.
+
 
 ## Additional SQL Analysis
 
 Additional SQL queries were created to explore:
 
-- station traffic tier classification
+- Station traffic tier classification
 - Top 10 Subway Stations: 2018 vs. 2023 Comparison 
-- borough-level ridership comparisons
-- station count distributions by traffic level
+- Borough-level ridership comparisons
+- Station count distributions by traffic level
 
 Some analyses were exploratory and were not ultimately visualized in Tableau.
   
