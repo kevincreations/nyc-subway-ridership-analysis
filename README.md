@@ -2,7 +2,7 @@
 Analyzing the NYC MTA weekday data from 2018 - 2023 to enhance the knowledge and understanding of subway ridership before, during, and after the covid pandemic. 
 
 ## Project Background
-The purpose for this project is to investigate the effects of the covid pandemic on the MTA Subway. The data from Data.gov includes only weekday data (M-F) from 2018 – 2023. NYC has 472 stations, but transfer stations are counted as one stop, thus making it 423 stations in total across 4 boroughs: Brookyln, The Bronx, Queens, and Manhattan. The data included a weekday average from each station from every year from 2018 to 2023 along with station ranks.
+The purpose of this project is to investigate the effects of the covid pandemic on the MTA Subway. The data from Data.gov includes only weekday data (M-F) from 2018 – 2023. NYC has 472 stations, but transfer stations are counted as one stop, thus making it 423 stations in total across 4 boroughs: Brookyln, The Bronx, Queens, and Manhattan. The data included a weekday average from each station from every year from 2018 to 2023 along with station ranks.
 
 ## Tools Used
 - SQLite
