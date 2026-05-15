@@ -20,12 +20,16 @@ This dashboard illustrates the citywide average, borough average, and the change
 - Remote work trends likely contributed to reduced commuter traffic.
 - Even though there was growth in 2023, it slowed down compared to 2022.
 
-## Additional SQL queries were experimented to explore for future visualizations:
+## Additional SQL Analysis
+
+Additional SQL queries were created to explore:
 
 - station traffic tier classification
 - borough-level ridership comparisons
 - pre- vs post-pandemic ridership changes
 - station count distributions by traffic level
+
+Some analyses were exploratory and were not ultimately visualized in Tableau.
   
 ## SQL Skills Used
 - CASE statements
