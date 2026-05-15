@@ -16,7 +16,7 @@ This dashboard illustrates citywide averages, borough averages, and year-to-year
 ## Key Takeaways
 - Manhattan stations drive the highest ridership levels.
 - Ridership in 2023 remained below pre-pandemic levels.
-- Although growth continued in 2023, it was significantly weaker than the surge seen in 2022.
+- Although growth continued in 2023, it was moderately weaker than the surge seen in 2022.
 - Remote work trends likely contributed to reduced commuter traffic.
 
 
