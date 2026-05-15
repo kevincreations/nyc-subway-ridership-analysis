@@ -8,7 +8,6 @@ The purpose for this project is to investigate the effects of the covid pandemic
 - SQLite
 - Tableau
 - Excel
-- GitHub
 
 - <img width="450" height="350" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/bcab2939-7bda-4268-ae5c-d34d08b078f6" />
 ## Dashboard Background
@@ -25,8 +24,8 @@ This dashboard illustrates the citywide average, borough average, and the change
 Additional SQL queries were created to explore:
 
 - station traffic tier classification
+- Top 10 Subway Stations: 2018 vs. 2023 Comparison 
 - borough-level ridership comparisons
-- pre- vs post-pandemic ridership changes
 - station count distributions by traffic level
 
 Some analyses were exploratory and were not ultimately visualized in Tableau.
